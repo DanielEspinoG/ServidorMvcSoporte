@@ -405,3 +405,4 @@ C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\
 C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Views\MisDatos\Create.cshtml.g.cs
