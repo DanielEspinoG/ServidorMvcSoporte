@@ -413,3 +413,4 @@ C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\
 C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Views\MisAvisos\Edit.cshtml.g.cs
 C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Views\MisAvisos\Index.cshtml.g.cs
 C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\Espino12058\Desktop\ServidorMvcSoporte\Servidor Práctica 3\MvcSoporte\MvcSoporte\obj\Debug\net5.0\Razor\Views\Usuarios\Create.cshtml.g.cs
