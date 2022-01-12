@@ -39,7 +39,7 @@ namespace MvcSoporte.Controllers
             return View();
         }
 
-        [Authorize(Roles = "Usuario")]
+        /*[Authorize(Roles = "Usuario")]*/
 
         public IActionResult Privacy()
         {
